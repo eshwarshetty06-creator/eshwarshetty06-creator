@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com
+  ?font=Fira+Code
+  &pause=1000
+  &color=00F7FF
+  &center=true
+  &vCenter=true
+  &size=28
+  &lines=Hi,+I'm+Eshwar+👋;
+  Turning+Ideas+into+Code+💻;
+  Building+Projects,+One+Commit+at+a+Time+🚀;
+  Welcome+to+my+GitHub+Universe+🌌">
+</h1>
 
-<!--
-**eshwarshetty06-creator/eshwarshetty06-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
